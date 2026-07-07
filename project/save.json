@@ -1,0 +1,13 @@
+{
+  "coins": 2993,
+  "best_distance": 5399,
+  "best_score": 19355,
+  "engine_level": 0,
+  "suspension_level": 0,
+  "tires_level": 0,
+  "fuel_tank_level": 0,
+  "boost_level": 0,
+  "weight_reduction_level": 0,
+  "sound_volume": 0.8,
+  "muted": false
+}
